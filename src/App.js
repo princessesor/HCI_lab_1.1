@@ -59,7 +59,7 @@ function exitform(){
                 <button onClick={"default message 2"}> default message 1 </button>
                 
                 <button onClick={sayHello} className=" move">default message 2</button>;
-            </ul>          
+            </ul>            
          <hr/>
         
 
